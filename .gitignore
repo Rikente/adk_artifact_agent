@@ -1,0 +1,5 @@
+env
+.adk
+.env
+tests
+__pycache__
